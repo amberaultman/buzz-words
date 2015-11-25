@@ -4,6 +4,10 @@ source 'https://rubygems.org'
 
 gem "middleman", "~>3.3.12"
 
+gem 'bitters'
+gem 'bourbon'
+gem 'neat'
+
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.1.0"
 
